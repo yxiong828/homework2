@@ -27,7 +27,6 @@ img {
 
 div {
     min-height: 100px;
-    height: auto;
     padding: 20px;
     border: 3px solid white;
 }
